@@ -14,7 +14,7 @@ sap.ui.define([
             //show message
             MessageToast.show(sMsg);
         },
-
+		//formatter
         formatter:formatter,
         
         onFilterProducts:function(oEvent){
